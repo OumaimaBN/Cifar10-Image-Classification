@@ -17,5 +17,6 @@ It is one of the most widely used datasets for machine learning research.[1][2] 
         8: 'ship',
         9: 'truck']
  
-** Stramlit app demo **
+**Streamlit app demo** \
+![grab-landing-page](https://github.com/OumaimaBN/Cifar10-Image-Classification/blob/main/cifar10-classification.gif)
 
