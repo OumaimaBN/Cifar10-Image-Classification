@@ -53,7 +53,7 @@ def main():
     result = ""
     if st.button("What do u think this is ?"):
         result = predict_class(image)
-    st.success("Mmm I think it's a (an): {}".format(result))
+        st.success("Mmm I think it's a (an): {}".format(result))
 
 
 if __name__ == '__main__':
